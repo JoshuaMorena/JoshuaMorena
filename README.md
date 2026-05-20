@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Joshua Morena
 
-## 🧪 Quality Assurance Engineer | QA Automation Engineer
+## 🧪 QA Engineer 
 
 Passionate about delivering high-quality software through manual and automation testing, with experience in validating enterprise and government web applications.
 
