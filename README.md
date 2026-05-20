@@ -24,6 +24,10 @@ Passionate about:
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaMorena&show_icons=true)
+
+---
+
 ## 📫 Connect with Me
 - LinkedIn: www.linkedin.com/in/joshua-morena
 - Email: joshua.tmorena.25@gmail.com
