@@ -19,11 +19,11 @@ Passionate about:
 
 ## 📌 Current Focus
 - Improving Playwright automation skills
-- Learning advanced API testing
+- Learning API testing
 - Enhancing QA workflows
 
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: YOUR_LINK
-- Email: YOUR_EMAIL
+- LinkedIn: www.linkedin.com/in/joshua-morena
+- Email: joshua.tmorena.25@gmail.com
