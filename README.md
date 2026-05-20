@@ -1,29 +1,79 @@
 # 👋 Hi there! I'm Joshua Morena
 
-## 🧪 QA Engineer | Web Application Tester | Manual and Automation Tester
+## 🧪 Quality Assurance Engineer | QA Automation Engineer
 
-Passionate about:
-- Manual Testing
-- Automation Testing with Playwright
+Passionate about delivering high-quality software through manual and automation testing, with experience in validating enterprise and government web applications.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 About Me
 
-![Playwright](https://img.shields.io/badge/-Playwright-000?logo=playwright)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript)
-![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)
-![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-000)
+- 🔍 QA Engineer with 2+ years of experience in software testing
+- 🤖 Experienced in Automation Testing using Playwright (JavaScript) and BugBug
+- 🛡 Conducts web security testing using OWASP ZAP
+- 🧠 Uses AI-assisted tools and prompt engineering for test generation and analysis
+- 🔄 Performs Regression, Functional, Smoke, and Exploratory Testing
+- ⚙️ Experienced in CI/CD workflows using GitHub Actions
+- 🧩 Focused on improving software quality, stability, and user experience
+
+---
+
+## 🛠 Tech Stack
+
+### Testing & Automation
+[![My Skills](https://skillicons.dev/icons?i=js,github)](https://skillicons.dev)
+
+- Playwright (JavaScript)
+- BugBug
+- OWASP ZAP
+- GitHub Actions
+- AI Agents / MCP Server
+
+### Programming & Web
+- JavaScript
+- HTML
+- CSS Selectors
+- Browser Developer Tools
+
+### Version Control & Collaboration
+- Git
+- GitHub
+- Pull Requests
+- Branching & Merging
 
 ---
 
 ## 📌 Current Focus
-- Improving Playwright automation skills
-- Learning API testing
-- Enhancing QA workflows
+
+- Advanced Playwright Automation
+- API Testing
+- AI-Assisted Testing Workflows
+- End-to-End Testing Strategies
+- Security & Performance Testing
+
+---
+
+## 💼 Experience
+
+### Quality Assurance Engineer (Quality Advocate)
+📍 Sparksoft Solutions, Inc. | April 2024 – Present
+
+- Automated end-to-end workflows using Playwright
+- Performed regression, smoke, exploratory, and functional testing
+- Validated new features and fixes before production release
+- Conducted security testing using OWASP ZAP
+- Worked with GitHub Actions CI pipelines
+- Mentored QA interns and shared testing best practices
 
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: www.linkedin.com/in/joshua-morena
-- Email: joshua.tmorena.25@gmail.com
+
+- 💼 LinkedIn: linkedin.com/in/joshua-morena/
+- 📧 Email: joshua.tmorena.25@gmail.com
+
+---
+
+## ✨ Fun Fact
+
+I enjoy identifying edge cases, improving testing workflows, and building reliable automation scripts that help teams release software with confidence.
