@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi there! I'm Joshua Morena
 
-<!--
-**JoshuaMorena/JoshuaMorena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧪 QA Engineer | Web Application Tester | Manual and Automation Tester
 
-Here are some ideas to get you started:
+Passionate about:
+- Manual Testing
+- Automation Testing with Playwright
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+![Playwright](https://img.shields.io/badge/-Playwright-000?logo=playwright)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript)
+![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-000)
+
+---
+
+## 📌 Current Focus
+- Improving Playwright automation skills
+- Learning advanced API testing
+- Enhancing QA workflows
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: YOUR_LINK
+- Email: YOUR_EMAIL
