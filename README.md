@@ -53,20 +53,6 @@ Passionate about delivering high-quality software through manual and automation 
 
 ---
 
-## 💼 Experience
-
-### Quality Assurance Engineer (Quality Advocate)
-📍 Sparksoft Solutions, Inc. | April 2024 – Present
-
-- Automated end-to-end workflows using Playwright
-- Performed regression, smoke, exploratory, and functional testing
-- Validated new features and fixes before production release
-- Conducted security testing using OWASP ZAP
-- Worked with GitHub Actions CI pipelines
-- Mentored QA interns and shared testing best practices
-
----
-
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: linkedin.com/in/joshua-morena/
