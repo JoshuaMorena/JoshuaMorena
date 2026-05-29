@@ -21,7 +21,11 @@ Passionate about delivering high-quality software through manual and automation 
 ## 🛠 Tech Stack
 
 ### Testing & Automation
-[![My Skills](https://skillicons.dev/icons?i=js,github)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,github,git,vscode" />
+  </a>
+</p>
 
 - Playwright (JavaScript)
 - BugBug
@@ -55,7 +59,7 @@ Passionate about delivering high-quality software through manual and automation 
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: linkedin.com/in/joshua-morena/
+- 💼 LinkedIn: www.linkedin.com/in/joshua-morena
 - 📧 Email: joshua.tmorena.25@gmail.com
 
 ---
