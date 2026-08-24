@@ -10,6 +10,7 @@ Passionate about delivering high-quality software through manual and automation 
 
 - 🔍 QA Engineer with 2+ years of experience in software testing
 - 🤖 Experienced in Automation Testing using Playwright (JavaScript) and BugBug
+- 🌐 Performs manual API testing (REST/JSON), request validation, and status code verification
 - 🛡 Conducts web security testing using OWASP ZAP
 - 🧠 Uses AI-assisted tools and prompt engineering for test generation and analysis
 - 🔄 Performs Regression, Functional, Smoke, and Exploratory Testing
@@ -23,11 +24,12 @@ Passionate about delivering high-quality software through manual and automation 
 ### Testing & Automation
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,github,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,github,git,vscode,postman" />
   </a>
 </p>
 
 - Playwright (JavaScript)
+- Postman
 - BugBug
 - OWASP ZAP
 - GitHub Actions
