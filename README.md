@@ -14,7 +14,6 @@ Passionate about delivering high-quality software through manual and automation 
 - 🛡 Conducts web security testing using OWASP ZAP
 - 🧠 Uses AI-assisted tools and prompt engineering for test generation and analysis
 - 🔄 Performs Regression, Functional, Smoke, and Exploratory Testing
-- ⚙️ Experienced in CI/CD workflows using GitHub Actions
 - 🧩 Focused on improving software quality, stability, and user experience
 
 ---
@@ -32,7 +31,6 @@ Passionate about delivering high-quality software through manual and automation 
 - Postman
 - BugBug
 - OWASP ZAP
-- GitHub Actions
 - AI Agents / MCP Server
 
 ### Programming & Web
